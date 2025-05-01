@@ -1,0 +1,272 @@
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\appsettings.json
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\proyecto final.exe
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\proyecto final.deps.json
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\proyecto final.runtimeconfig.json
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\proyecto final.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\proyecto final.pdb
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Humanizer.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.csproj.AssemblyReference.cache
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.AssemblyInfoInputs.cache
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.AssemblyInfo.cs
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\staticwebassets\msbuild.proyecto final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\staticwebassets\msbuild.build.proyecto final.props
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.proyecto final.props
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.proyecto final.props
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\scopedcss\bundle\proyecto final.styles.css
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.csproj.CopyComplete
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\refint\proyecto final.dll
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.pdb
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.genruntimeconfig.cache
+C:\Users\rgaon\Downloads\proyecto final (1)\proyecto final\proyecto final\obj\Debug\net8.0\ref\proyecto final.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\appsettings.Development.json
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\appsettings.json
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\proyecto final.exe
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\proyecto final.deps.json
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\proyecto final.runtimeconfig.json
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\proyecto final.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\proyecto final.pdb
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Azure.Core.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Azure.Identity.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Humanizer.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\System.CodeDom.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\System.Memory.Data.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.csproj.AssemblyReference.cache
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.AssemblyInfoInputs.cache
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.AssemblyInfo.cs
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.csproj.CoreCompileInputs.cache
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.MvcApplicationPartsAssemblyInfo.cs
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.MvcApplicationPartsAssemblyInfo.cache
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\staticwebassets.build.json
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\staticwebassets.development.json
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\staticwebassets\msbuild.proyecto final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\staticwebassets\msbuild.build.proyecto final.props
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.proyecto final.props
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.proyecto final.props
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\staticwebassets.pack.json
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\scopedcss\bundle\proyecto final.styles.css
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.csproj.CopyComplete
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\refint\proyecto final.dll
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.pdb
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.genruntimeconfig.cache
+C:\EvidenciaWeb\proyecto final\proyecto final\obj\Debug\net8.0\ref\proyecto final.dll

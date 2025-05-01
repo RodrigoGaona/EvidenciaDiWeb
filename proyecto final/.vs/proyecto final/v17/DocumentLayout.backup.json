@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thekr\\source\\repos\\proyecto final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E050BC4A-4277-47C1-8F8A-B7F6DEA37C7D}|proyecto final\\proyecto final.csproj|c:\\users\\thekr\\source\\repos\\proyecto final\\proyecto final\\data\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E050BC4A-4277-47C1-8F8A-B7F6DEA37C7D}|proyecto final\\proyecto final.csproj|solutionrelative:proyecto final\\data\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E050BC4A-4277-47C1-8F8A-B7F6DEA37C7D}|proyecto final\\proyecto final.csproj|c:\\users\\thekr\\source\\repos\\proyecto final\\proyecto final\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E050BC4A-4277-47C1-8F8A-B7F6DEA37C7D}|proyecto final\\proyecto final.csproj|solutionrelative:proyecto final\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E050BC4A-4277-47C1-8F8A-B7F6DEA37C7D}|proyecto final\\proyecto final.csproj|c:\\users\\thekr\\source\\repos\\proyecto final\\proyecto final\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E050BC4A-4277-47C1-8F8A-B7F6DEA37C7D}|proyecto final\\proyecto final.csproj|solutionrelative:proyecto final\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E050BC4A-4277-47C1-8F8A-B7F6DEA37C7D}|proyecto final\\proyecto final.csproj|c:\\users\\thekr\\source\\repos\\proyecto final\\proyecto final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E050BC4A-4277-47C1-8F8A-B7F6DEA37C7D}|proyecto final\\proyecto final.csproj|solutionrelative:proyecto final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E050BC4A-4277-47C1-8F8A-B7F6DEA37C7D}|proyecto final\\proyecto final.csproj|c:\\users\\thekr\\source\\repos\\proyecto final\\proyecto final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E050BC4A-4277-47C1-8F8A-B7F6DEA37C7D}|proyecto final\\proyecto final.csproj|solutionrelative:proyecto final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Thekr\\source\\repos\\proyecto final\\proyecto final\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "proyecto final\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Thekr\\source\\repos\\proyecto final\\proyecto final\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "proyecto final\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T01:56:18.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thekr\\source\\repos\\proyecto final\\proyecto final\\Program.cs",
+              "RelativeDocumentMoniker": "proyecto final\\Program.cs",
+              "ToolTip": "C:\\Users\\Thekr\\source\\repos\\proyecto final\\proyecto final\\Program.cs",
+              "RelativeToolTip": "proyecto final\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T01:54:10.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Thekr\\source\\repos\\proyecto final\\proyecto final\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "proyecto final\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Thekr\\source\\repos\\proyecto final\\proyecto final\\Models\\Movie.cs",
+              "RelativeToolTip": "proyecto final\\Models\\Movie.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T01:53:50.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Thekr\\source\\repos\\proyecto final\\proyecto final\\Data\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "proyecto final\\Data\\MovieDbContext.cs",
+              "ToolTip": "C:\\Users\\Thekr\\source\\repos\\proyecto final\\proyecto final\\Data\\MovieDbContext.cs",
+              "RelativeToolTip": "proyecto final\\Data\\MovieDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T01:52:13.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Thekr\\source\\repos\\proyecto final\\proyecto final\\appsettings.json",
+              "RelativeDocumentMoniker": "proyecto final\\appsettings.json",
+              "ToolTip": "C:\\Users\\Thekr\\source\\repos\\proyecto final\\proyecto final\\appsettings.json",
+              "RelativeToolTip": "proyecto final\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T01:46:35.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
