@@ -4458,11 +4458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EvidenciaWeb\\proyecto final\\proyecto final\\proyecto final.csproj",
+      "projectUniqueName": "C:\\Users\\rgaon\\Downloads\\EvidenciaDiWeb-master\\reactjs\\proyecto final\\proyecto final\\proyecto final.csproj",
       "projectName": "proyecto final",
-      "projectPath": "C:\\EvidenciaWeb\\proyecto final\\proyecto final\\proyecto final.csproj",
+      "projectPath": "C:\\Users\\rgaon\\Downloads\\EvidenciaDiWeb-master\\reactjs\\proyecto final\\proyecto final\\proyecto final.csproj",
       "packagesPath": "C:\\Users\\rgaon\\.nuget\\packages\\",
-      "outputPath": "C:\\EvidenciaWeb\\proyecto final\\proyecto final\\obj\\",
+      "outputPath": "C:\\Users\\rgaon\\Downloads\\EvidenciaDiWeb-master\\reactjs\\proyecto final\\proyecto final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rgaon\\AppData\\Roaming\\NuGet\\NuGet.Config",
